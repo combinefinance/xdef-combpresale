@@ -1,10 +1,12 @@
 # xdef-combpresale
-The whitelist addresses are displayed here. 
+Congralutions to all whitelist addresses. The waiting is over and here's the result of the Whitelist addresses. 
 
-Send the Eth to this address for Xdef Presale
+Send the Eth to this address for Xdef Presale, Don't exceed your contribution personal cap, If you do Phil will get the excess amount.
 0x96F9E9371af4930FF61c6fe4Cd698Eadfb76B810
 
-Whitelist Address - the number is displayed are the max eth contribution.
+Whitelist Address - the number displayed are the max eth contribution per wallet.
+
+Whitelist Address	Eth Contribution
 
 0x0aa350fb487f75d4f5d6ed920a5ae0923ded06e1	12
 0x73329C2737007a1B43bA19d501b10AfE5580f3FA	12
@@ -28,4 +30,5 @@ Whitelist Address - the number is displayed are the max eth contribution.
 0x4Dd91f366E1Ffc6BfC88A9d2aF682093C9E24b0F	6
 0x5D55ee935D1AAd8cAcE20528c63B26BC6417b6CE	6
 0x0cBe393a9F3cE40575939103d849587D30e5357D	6
+
 
