@@ -1,4 +1,7 @@
 # xdef-combpresale
+
+Eth: 590 / Price: 0.15  / Cap : 100k 
+
 Congralutions to all whitelist addresses. The waiting is over and here's the result of the Whitelist addresses. 
 
 Send the Eth to this address for Xdef Presale, Don't exceed your personal contribution cap per wallet, If you do Phil will get the excess amount.
