@@ -1,6 +1,6 @@
 # xdef-combpresale
 
-Eth: 590 / Price: 0.15  / Cap : 100k 
+Eth: 590 / Price: 0.17  / Cap : 100k 
 
 Congralutions to all whitelist addresses. The waiting is over and here's the result of the Whitelist addresses. 
 
